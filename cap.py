@@ -18,7 +18,6 @@ Sample Output:
 L1
 
 """
-#
 capacity_L1 = int(input())
 capacity_L2 = int(input())
 capacity_L3 = int(input())
