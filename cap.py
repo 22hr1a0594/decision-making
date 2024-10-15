@@ -21,7 +21,7 @@ L1
 capacity_L1 = int(input())
 capacity_L2 = int(input())
 capacity_L3 = int(input())
-allocated_lab = input("Enter the lab allocated for ACE training (L1, L2, L3): ").strip()
+allocated_lab = input().strip()
 lab_capacities = {
     "L1": capacity_L1,
     "L2": capacity_L2,
